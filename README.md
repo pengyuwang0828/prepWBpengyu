@@ -1,7 +1,5 @@
 # prepWBpengyu
 
-`prepWBpengyu` is an R package created for the CHL5233 Week 4 in-class assignment.
-
 The package contains a function for preprocessing World Bank mortality data.
 
 ## Main function
